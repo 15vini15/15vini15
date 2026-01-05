@@ -7,9 +7,11 @@ Desenvolvedor Full Stack, trabalhando com HTML, CSS, JavaScript, Python e Django
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=15vini15)](https://github.com/15vini15/github-readme-stats)
-### 🤖 Linguagens e Tecnologias
 
+### 🤖 Linguagens e Tecnologias
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=15vini15&layout=compact&langs_count=8&theme=dark" />
+</p>
 
            
           
